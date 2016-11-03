@@ -1,0 +1,39 @@
+{"products": [
+	{
+		"id": 1,
+		"title": "Angry birds",
+		"image": "images/angry.jpg",
+		"price": 60
+	},
+	{
+		"id": 2,
+		"title": "Marvel Heroes",
+		"image": "images/heroes.jpg",
+		"price": 250
+	},
+	{
+		"id": 3,
+		"title": "Dust",
+		"image": "images/dust.jpg",
+		"price": 180
+	},
+	{
+		"id": 4,
+		"title": "Spiderman",
+		"image": "images/Spiderman.jpg",
+		"price": 50
+	},
+	{
+		"id": 5,
+		"title": "Crew",
+		"image": "images/crew.jpg",
+		"price": 1000
+	},
+	{
+		"id": 6,
+		"title": "Rivals",
+		"image": "images/rivals.png",
+		"price": 200
+	}
+
+]}
